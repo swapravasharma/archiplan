@@ -275,8 +275,7 @@ figcaption {
 }
 
 .section {
-  margin-right: 30px;
-  margin-left: 30px;
+  margin: 0px 30px 50px;
 }
 
 .section.cc-contact {
@@ -1260,6 +1259,7 @@ figcaption {
 }
 
 .div-block-2 {
+  height: 100px;
   background-color: #000;
 }
 

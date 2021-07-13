@@ -1515,6 +1515,10 @@ figcaption {
   background-repeat: no-repeat;
 }
 
+.slide-nav-3 {
+  display: none;
+}
+
 @media screen and (max-width: 991px) {
   .styleguide-block {
     text-align: center;

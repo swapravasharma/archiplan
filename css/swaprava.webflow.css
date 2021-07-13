@@ -2089,12 +2089,24 @@ figcaption {
     font-size: 24px;
   }
 
+  .slider {
+    height: 40vh;
+  }
+
   .icon {
     display: none;
   }
 
   .icon-2 {
     display: none;
+  }
+
+  .slider-2 {
+    height: 40vh;
+  }
+
+  .slider-3 {
+    height: 40vh;
   }
 }
 

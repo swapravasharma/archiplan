@@ -1521,7 +1521,7 @@ figcaption {
 
 .background-video {
   position: relative;
-  height: 110vh;
+  height: 90vh;
 }
 
 .image {
@@ -1563,6 +1563,16 @@ figcaption {
   top: auto;
   right: auto;
   bottom: 0%;
+}
+
+.heading-7 {
+  font-size: 24px;
+}
+
+.image-4 {
+  margin-top: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media screen and (max-width: 991px) {
@@ -1804,6 +1814,10 @@ figcaption {
   .container-3 {
     display: none;
   }
+
+  .section-2 {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -2005,6 +2019,7 @@ figcaption {
   }
 
   .background-video {
+    display: none;
     height: 40vh;
   }
 

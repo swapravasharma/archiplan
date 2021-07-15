@@ -1575,6 +1575,43 @@ figcaption {
   margin-left: auto;
 }
 
+.slider-4 {
+  height: 70vh;
+  background-color: #fff;
+}
+
+.slide-28 {
+  background-image: url("../images/3.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-29 {
+  background-image: url("../images/4.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-30 {
+  background-image: url("../images/5.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-31 {
+  background-image: url("../images/2.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-nav-4 {
+  display: none;
+}
+
 @media screen and (max-width: 991px) {
   .styleguide-block {
     text-align: center;
@@ -2193,6 +2230,10 @@ figcaption {
   .text-block-2 {
     display: none;
     height: 50vh;
+  }
+
+  .slider-4 {
+    height: 30vh;
   }
 }
 

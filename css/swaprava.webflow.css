@@ -278,7 +278,7 @@ figcaption {
 }
 
 .section {
-  margin: 0px 30px 50px;
+  margin: 40px 30px 50px;
 }
 
 .section.cc-contact {
@@ -1610,6 +1610,36 @@ figcaption {
 
 .slide-nav-4 {
   display: none;
+}
+
+.lottie-animation {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+.div-block-3 {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  z-index: 100;
+  display: none;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000;
+}
+
+.lottie-animation-2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  width: 108px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media screen and (max-width: 991px) {

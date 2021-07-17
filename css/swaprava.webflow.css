@@ -557,7 +557,7 @@ figcaption {
 }
 
 .work-image.cc-work-4 {
-  background-image: url("../images/pexels-john-lee-6434779.jpg");
+  background-image: url("../images/pexels-filippo-peisino-2678301.jpg");
   background-size: cover;
 }
 
@@ -1640,6 +1640,59 @@ figcaption {
   width: 108px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.heading-8 {
+  font-size: 25px;
+}
+
+.heading-9 {
+  font-size: 25px;
+  text-align: center;
+}
+
+.slider-5 {
+  height: 100vh;
+  background-color: #fff;
+}
+
+.slide-nav-5 {
+  display: none;
+}
+
+.slide-32 {
+  background-image: url("../images/1.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-33 {
+  background-image: url("../images/2_1.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-34 {
+  background-image: url("../images/3_1.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-35 {
+  background-image: url("../images/4_1.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-36 {
+  background-image: url("../images/5_1.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 991px) {

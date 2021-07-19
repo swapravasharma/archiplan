@@ -1702,6 +1702,13 @@ figcaption {
   background-repeat: no-repeat;
 }
 
+.slide-38 {
+  background-image: url("../images/schools.jpg");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 @media screen and (max-width: 991px) {
   .styleguide-block {
     text-align: center;
